@@ -7,9 +7,6 @@ var y1 = parseInt(paramY1, 10);
 var x2 = parseInt(paramX2, 10);
 var y2 = parseInt(paramY2, 10);
 
-
-//console.log("программа прочитала", typeof x1, y1, x2, y2);
-
 function vektorX(x1, x2) {
     return x1 + x2;
 }
